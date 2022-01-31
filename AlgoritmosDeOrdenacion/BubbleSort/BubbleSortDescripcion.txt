@@ -1,0 +1,6 @@
+BubbleSort:
+
+En el método de ordenación BubbleSort un número 'X' se compara con todos los demás, y el mayor de ellos se coloca al final. 
+Por lo que en la siguiente vuelta no habría que mirar el número el cual está al final ya que es el máximo del array.
+
+Ejemplo Video AlgoRythmics: https://www.youtube.com/watch?v=lyZQPjUT5B4&ab_channel=AlgoRythmics

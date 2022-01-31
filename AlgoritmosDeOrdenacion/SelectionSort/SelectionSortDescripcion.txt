@@ -1,0 +1,6 @@
+SelectionSort:
+
+Selection Sort por cada vuelta coge el número más pequeño y lo coloca al principio del array, en la siguiente vuelta
+no volverá a comprobar ese número.
+
+Video Ejemplo AlgoRythmics: https://www.youtube.com/watch?v=Ns4TPTC8whw&ab_channel=AlgoRythmics
